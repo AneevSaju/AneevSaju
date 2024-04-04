@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Aneev Saju</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+hello;hello" alt="Typing SVG" /></a>
 <h3 align="center">Passionate Frontend Developer | India 🇮🇳</h3>
 
 <p align="center">
